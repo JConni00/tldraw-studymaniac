@@ -49,3 +49,7 @@ If you're using the library in a commercial product, please consider [becoming a
 ## Author
 
 - [@steveruizok](https://twitter.com/steveruizok)
+
+## Acknowledgments
+
+This package is a fork of [@tldraw/tldraw](original-package-url) by [@steveruizok](https://twitter.com/steveruizok). All credits for the original work go to them.
